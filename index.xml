@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Shim</title>
-    <link>https://rcshim04.github.io/website/</link>
+    <link>https://ericshim.ca/</link>
     <description>Recent content on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rcshim04.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ericshim.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://rcshim04.github.io/website/about/</link>
+      <link>https://ericshim.ca/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rcshim04.github.io/website/about/</guid>
+      <guid>https://ericshim.ca/about/</guid>
       <description>I&#39;m a developer studying Systems Design Engineering at the University of Waterloo.
 My speciality is in front-end design and development, where I enjoy creating robust web solutions with a focus on clean design and user usability.In my free time, my interests extend beyond the web to drawing, music, cooking, and live-streaming.Resume||||||||||SkillsWeb Design and DevelopmentScriptingBranding and Logo DesignPhotoshopVideo Editing3D Modelling (Solidworks CAD)3D Animation (MMD)Music TranscriptionMicrosoft Excel||||||||||Languages and FrameworksHTML / CSS / Javascript (jQuery)PythonC++JavaPHPProcessingNode.</description>
     </item>
