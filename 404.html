@@ -15,7 +15,7 @@
     
     
     
-    <link rel="stylesheet" href="/styles/base.min.c5ac3c9066c0e2a63673dfdc9d8d0bac00f57298f0d7a5e31dbb28cac3064b05.css" integrity="sha256-xaw8kGbA4qY2c9/cnY0LrAD1cpjw16XjHbsoysMGSwU=">
+    <link rel="stylesheet" href="/styles/base.min.b2251fa910b2da4365dc2a63633f8093b7a2ff71cc065ecac496445c379ac26d.css" integrity="sha256-siUfqRCy2kNl3CpjYz+Ak7ei/3HMBl7KxJZEXDeawm0=">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <link rel="icon" href="/favicon.svg">
@@ -25,7 +25,8 @@
     <script src="https://code.jquery.com/jquery-3.6.3.min.js" crossorigin="anonymous"></script>
     
     
-    <script src="/js/bundle.min.d9baf30ed46e903db5c16933705019b24feec6b1290cea4318b3a859c8f02bbb.js"></script>
+    
+    <script src="/js/bundle.min.6f7a8924e1361ba4700d80a0dc76674293bd461e6f08fdab9519765d33742f49.js"></script>
     
 </head>
 <body>
@@ -43,18 +44,21 @@
                 </g>
             </svg>
         </a>
-        <div>
-            <ul class="links">
-                
-                <li>
-                    <a id="about" href="/about/">About</a>
-                </li>
-                
-                <li>
-                    <a id="projects" href="/projects/">Projects</a>
-                </li>
-                
-            </ul>
+        <ul class="links">
+            
+            <li class="about">
+                <a href="/about/">About</a>
+            </li>
+            
+            <li class="projects">
+                <a href="/projects/">Projects</a>
+            </li>
+            
+        </ul>
+        <div class="mobile-toggle">
+            <span class="material-icons hidden">menu</span>
+            <a class="hamburger-menu active"><span class="material-icons">menu</span></a>
+            <a class="close-menu"><span class="material-icons">close</span></a>
         </div>
     </nav>
     <div class="switch">
@@ -64,13 +68,61 @@
         </label>
     </div>
 </header>
+<div class="mobile-nav">
+    <ul class="mobile-links">
+        
+        <li class="about">
+            <a href="/about/">About</a>
+        </li>
+        <hr>
+        
+        <li class="projects">
+            <a href="/projects/">Projects</a>
+        </li>
+        <hr>
+        
+        <li class="displaymode">
+            <a class="dropdown-trigger-mobile" id="displaymode-trigger-mobile">
+                Display Mode
+                <span class="material-icons">chevron_right</span>
+            </a>
+            <ul class="dropdown-content-mobile" id="displaymode-dropdown-mobile">
+                <li class="dropdown-back-mobile" id="displaymode-dropdown-back-mobile">
+                    <a>
+                        <span class="material-icons">chevron_left</span>
+                        Back to Menu
+                    </a>
+                </li>
+                <hr>
+                <li>
+                    <form id="mobile-theme-toggle">
+                        <div>
+                            <input type="radio" id="system" name="display-mode" value="system">
+                            <label for="system">System Settings</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="light" name="display-mode" value="light">
+                            <label for="light">Light Mode</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="dark" name="display-mode" value="dark">
+                            <label for="dark">Dark Mode</label>
+                        </div>
+                    </form>
+                </li>
+                <hr>
+            </ul>
+        </li>
+        <hr>
+    </ul>
+</div>
 
     <main>
         
 
 
 
-<link rel="stylesheet" href="/styles/404.min.5f265ffe64e97a83e10a7f1a78bbfa44a89cca2b1870429b3c9f69ff87c112b5.css" integrity="sha256-XyZf/mTpeoPhCn8aeLv6RKicyisYcEKbPJ9p/4fBErU=">
+<link rel="stylesheet" href="/styles/404.min.c65865de808c68646b12c33a313a915f1c7c9846fbbf84468a29799eaecb28e4.css" integrity="sha256-xlhl3oCMaGRrEsM6MTqRXxx8mEb7v4RGiil5nq7LKOQ=">
 
 <div class="container">
     <h1>Oops!</h1>
