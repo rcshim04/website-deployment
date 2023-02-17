@@ -6,7 +6,16 @@
     <description>Recent content in HTML5 on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 18:20:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 16:00:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website</title>
+      <link>https://ericshim.ca/projects/personal-website/</link>
+      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/personal-website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Project Metropolis</title>
       <link>https://ericshim.ca/projects/project-metropolis/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in Web Design on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 03:44:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 16:00:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website</title>
+      <link>https://ericshim.ca/projects/personal-website/</link>
+      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/personal-website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>halune</title>
       <link>https://ericshim.ca/projects/halune/</link>
