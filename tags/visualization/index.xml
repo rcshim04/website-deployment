@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Eric Shim</title>
+    <link>https://ericshim.ca/tags/visualization/</link>
+    <description>Recent content in Visualization on Eric Shim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2020 15:00:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorting Visualizer</title>
+      <link>https://ericshim.ca/projects/sorting-visualizer/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/sorting-visualizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Fractal Tree</title>
+      <link>https://ericshim.ca/projects/recursive-fractal-tree/</link>
+      <pubDate>Thu, 02 Apr 2020 13:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/recursive-fractal-tree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

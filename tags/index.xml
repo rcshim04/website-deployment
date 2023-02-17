@@ -5,6 +5,304 @@
     <link>https://ericshim.ca/tags/</link>
     <description>Recent content in Tags on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ericshim.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 14:59:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Modelling</title>
+      <link>https://ericshim.ca/tags/3d-modelling/</link>
+      <pubDate>Mon, 21 Nov 2022 14:59:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/3d-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solidworks</title>
+      <link>https://ericshim.ca/tags/solidworks/</link>
+      <pubDate>Mon, 21 Nov 2022 14:59:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/solidworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trains</title>
+      <link>https://ericshim.ca/tags/trains/</link>
+      <pubDate>Mon, 21 Nov 2022 14:59:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/trains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>https://ericshim.ca/tags/hackathon/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://ericshim.ca/tags/ml/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>https://ericshim.ca/tags/opencv/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python3</title>
+      <link>https://ericshim.ca/tags/python3/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/python3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://ericshim.ca/tags/tensorflow/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://ericshim.ca/tags/css/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://ericshim.ca/tags/django/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Stack</title>
+      <link>https://ericshim.ca/tags/full-stack/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/full-stack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highschool</title>
+      <link>https://ericshim.ca/tags/highschool/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/highschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML5</title>
+      <link>https://ericshim.ca/tags/html5/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JQuery</title>
+      <link>https://ericshim.ca/tags/jquery/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>https://ericshim.ca/tags/frontend/</link>
+      <pubDate>Fri, 01 Apr 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculus</title>
+      <link>https://ericshim.ca/tags/calculus/</link>
+      <pubDate>Mon, 24 Jan 2022 15:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/calculus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3.js</title>
+      <link>https://ericshim.ca/tags/d3.js/</link>
+      <pubDate>Mon, 24 Jan 2022 15:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/d3.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://ericshim.ca/tags/history/</link>
+      <pubDate>Sat, 18 Dec 2021 13:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anime</title>
+      <link>https://ericshim.ca/tags/anime/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JikanAPI</title>
+      <link>https://ericshim.ca/tags/jikanapi/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/jikanapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requests</title>
+      <link>https://ericshim.ca/tags/requests/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/requests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>https://ericshim.ca/tags/regex/</link>
+      <pubDate>Mon, 24 Aug 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://ericshim.ca/tags/algorithms/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://ericshim.ca/tags/java/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://ericshim.ca/tags/visualization/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>https://ericshim.ca/tags/game-dev/</link>
+      <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/game-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICS</title>
+      <link>https://ericshim.ca/tags/ics/</link>
+      <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/ics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>https://ericshim.ca/tags/firebase/</link>
+      <pubDate>Sun, 03 May 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://ericshim.ca/tags/javascript/</link>
+      <pubDate>Sun, 03 May 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musescore</title>
+      <link>https://ericshim.ca/tags/musescore/</link>
+      <pubDate>Tue, 28 Apr 2020 11:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/musescore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Notation</title>
+      <link>https://ericshim.ca/tags/music-notation/</link>
+      <pubDate>Tue, 28 Apr 2020 11:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/music-notation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing</title>
+      <link>https://ericshim.ca/tags/processing/</link>
+      <pubDate>Thu, 02 Apr 2020 13:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ready To Program</title>
+      <link>https://ericshim.ca/tags/ready-to-program/</link>
+      <pubDate>Tue, 14 Jan 2020 15:05:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/tags/ready-to-program/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

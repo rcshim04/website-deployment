@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ready To Program on Eric Shim</title>
+    <link>https://ericshim.ca/tags/ready-to-program/</link>
+    <description>Recent content in Ready To Program on Eric Shim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2020 15:05:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/ready-to-program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeopardy</title>
+      <link>https://ericshim.ca/projects/jeopardy/</link>
+      <pubDate>Tue, 14 Jan 2020 15:05:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/jeopardy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

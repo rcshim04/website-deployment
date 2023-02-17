@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Eric Shim</title>
+    <link>https://ericshim.ca/tags/history/</link>
+    <description>Recent content in History on Eric Shim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 13:00:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomic Scientists</title>
+      <link>https://ericshim.ca/projects/atomic-scientists/</link>
+      <pubDate>Sat, 18 Dec 2021 13:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/atomic-scientists/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

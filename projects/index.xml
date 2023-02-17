@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eric Shim</title>
-    <link>https://ericshim.ca/</link>
-    <description>Recent content on Eric Shim</description>
+    <title>Projects on Eric Shim</title>
+    <link>https://ericshim.ca/projects/</link>
+    <description>Recent content in Projects on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 13:38:55 -0500</lastBuildDate><atom:link href="https://ericshim.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 13:38:55 -0500</lastBuildDate><atom:link href="https://ericshim.ca/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stirling Single</title>
       <link>https://ericshim.ca/projects/stirling-single/</link>
@@ -158,16 +158,6 @@
       
       <guid>https://ericshim.ca/projects/abcwordsearch/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://ericshim.ca/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericshim.ca/about/</guid>
-      <description>I&#39;m a developer studying Systems Design Engineering at the University of Waterloo.
-My speciality is in front-end design and development, where I enjoy creating robust web solutions with a focus on clean design and user usability.In my free time, my interests extend beyond the web to drawing, music, cooking, and live-streaming.Resume||||||||||SkillsWeb Design and DevelopmentScriptingBranding and Logo DesignPhotoshopVideo Editing3D Modelling (Solidworks CAD)3D Animation (MMD)Music TranscriptionMicrosoft Excel||||||||||Languages and FrameworksHTML / CSS / Javascript (jQuery)PythonC++JavaPHPProcessingNode.</description>
     </item>
     
   </channel>

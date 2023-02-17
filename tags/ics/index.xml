@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICS on Eric Shim</title>
+    <link>https://ericshim.ca/tags/ics/</link>
+    <description>Recent content in ICS on Eric Shim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 12:00:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/ics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid Cashier</title>
+      <link>https://ericshim.ca/projects/covid-cashier/</link>
+      <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/covid-cashier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>https://ericshim.ca/projects/portfolio-website/</link>
+      <pubDate>Sun, 29 Mar 2020 16:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/portfolio-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeopardy</title>
+      <link>https://ericshim.ca/projects/jeopardy/</link>
+      <pubDate>Tue, 14 Jan 2020 15:05:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/jeopardy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABCWordsearch</title>
+      <link>https://ericshim.ca/projects/abcwordsearch/</link>
+      <pubDate>Mon, 10 Jun 2019 13:59:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/abcwordsearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

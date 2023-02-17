@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 on Eric Shim</title>
+    <link>https://ericshim.ca/tags/html5/</link>
+    <description>Recent content in HTML5 on Eric Shim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2022 18:20:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Metropolis</title>
+      <link>https://ericshim.ca/projects/project-metropolis/</link>
+      <pubDate>Tue, 23 Aug 2022 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/project-metropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Theme Color Converter</title>
+      <link>https://ericshim.ca/projects/dark-color/</link>
+      <pubDate>Fri, 01 Apr 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/dark-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Growth</title>
+      <link>https://ericshim.ca/projects/population-growth/</link>
+      <pubDate>Mon, 24 Jan 2022 15:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/population-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic Scientists</title>
+      <link>https://ericshim.ca/projects/atomic-scientists/</link>
+      <pubDate>Sat, 18 Dec 2021 13:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/atomic-scientists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metropolis TV</title>
+      <link>https://ericshim.ca/projects/metropolis-tv/</link>
+      <pubDate>Wed, 24 Nov 2021 09:20:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/projects/metropolis-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ActuallyAnAgenda</title>
+      <link>https://ericshim.ca/projects/actuallyanagenda/</link>
+      <pubDate>Sun, 03 May 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/actuallyanagenda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>https://ericshim.ca/projects/portfolio-website/</link>
+      <pubDate>Sun, 29 Mar 2020 16:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/projects/portfolio-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
