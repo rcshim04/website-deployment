@@ -14,8 +14,7 @@
 
     
     
-    
-    <link rel="stylesheet" href="/styles/base.min.623f6b84fc3350b9ae146963ca45c06f4117643e83cc4e7e874cbddca03cc0ce.css" integrity="sha256-Yj9rhPwzULmuFGljykXAb0EXZD6DzE5+h0y93KA8wM4=">
+    <link rel="stylesheet" href="/styles/base.min.a331abeac3fb34ac3bc4085be99381d6476213fdec372010229d0af9011001bd.css" integrity="sha256-ozGr6sP7NKw7xAhb6ZOB1kdiE/3sNyAQIp0K+QEQAb0=">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
@@ -127,14 +126,14 @@
 
 
 
-
-
-<link rel="stylesheet" href="/styles/banner.min.2f804fd92a53808d3f487537f126bf1e5c9d28a1ceb3605f6ad6b16e6b5d183d.css" integrity="sha256-L4BP2SpTgI0/SHU38Sa/HlydKKHOs2BfataxbmtdGD0=">
+<link rel="stylesheet" href="/styles/banner.min.05ca1f15857ca325eef23c040ceac14fe0192d60dfa316cf64e4ab18f76eb3f4.css" integrity="sha256-BcofFYV8oyXu8jwEDOrBT+AZLWDfoxbPZOSrGPdus/Q=">
 <link rel="stylesheet" href="/styles/projects.min.40087b466ff0fef1cff731bc9095d7c23324d067397ee9f6ed0bac201bf7689b.css" integrity="sha256-QAh7Rm/w/vHP9zG8kJXXwjMk0Gc5fun27QusIBv3aJs=">
-<link rel="stylesheet" href="/styles/project-card.min.381e0ec156d5897f0ca021836a4e573dc71b843b66c1f3ae2dfbb0f212b0e305.css" integrity="sha256-OB4OwVbViX8MoCGDak5XPccbhDtmwfOuLfuw8hKw4wU=">
+<link rel="stylesheet" href="/styles/project-card.min.1db35a2784bc831eb8c654a883bc6a889915e4c33f9764afbfc1a1c5bb1255ad.css" integrity="sha256-HbNaJ4S8gx64xlSog7xqiJkV5MM/l2Svv8GhxbsSVa0=">
+<link rel="stylesheet" href="/styles/project-popup.min.9c733fa1ce8eacf77674c327e38a96e8c4cbcc00ea430a0097e956d39534213b.css" integrity="sha256-nHM/oc6OrPd2dMMn44qW6MTLzADqQwoAl+lW05U0ITs=">
 
 
-<script src="/scripts/tag-color.min.ec0830d4177ddba2eb3141620f5b83c8d3d01c289649316fa48e5a6388c0b662.js"></script>
+
+<script src="/js/bundle2.min.3ca5762f6f153cfe6c6d82245da61357ec468a2a4dbbfc04ae30aaa0a6d7883a.js"></script>
 
 <style>
     nav #projects {
@@ -155,7 +154,7 @@
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-personal-website">
         <img class="thumbnail" src="thumbnails/personal-website.png" alt="Personal Website">
     </a>
     <div class="info">
@@ -193,11 +192,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-personal-website">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Personal Website</h3>
+        <p class="intro">My personal portfolio website. Built with love using Hugo.</p>
+        <a class="more-button popup-close" id="close-personal-website">Awesome!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-stirling-single">
         <img class="thumbnail" src="thumbnails/stirling-single.png" alt="Stirling Single">
     </a>
     <div class="info">
@@ -221,11 +230,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-stirling-single">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Stirling Single</h3>
+        <p class="intro">A model of the famous GNR No. 1 class 4-2-2 &#34;Stirling Single&#34; steam locomotive, which the engine Emily from Thomas the Tank Engine series is based on.</p>
+        <a class="more-button popup-close" id="close-stirling-single">Wow!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-signl">
         <img class="thumbnail" src="thumbnails/signl.jpg" alt="SiGnL">
     </a>
     <div class="info">
@@ -261,11 +280,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-signl">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">SiGnL</h3>
+        <p class="intro">A live sign language translator for American Sign Language created for Hack the North 2022.</p>
+        <a class="more-button popup-close" id="close-signl">Okay!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-project-metropolis">
         <img class="thumbnail" src="thumbnails/project-metropolis.png" alt="Project Metropolis">
     </a>
     <div class="info">
@@ -303,11 +332,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-project-metropolis">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Project Metropolis</h3>
+        <p class="intro">A student-run website project that centralizes school resources and information for all students to access.</p>
+        <a class="more-button popup-close" id="close-project-metropolis">Okay!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-halune">
         <img class="thumbnail" src="thumbnails/halune.png" alt="halune">
     </a>
     <div class="info">
@@ -335,16 +374,26 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-halune">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">halune</h3>
+        <p class="intro">A passion project created by a team of artists.</p>
+        <a class="more-button popup-close" id="close-halune">Great!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
-        <img class="thumbnail" src="thumbnails/dark-color.png" alt="Dark Theme Color Converter">
+    <a class="project-img" id="project-dark-color">
+        <img class="thumbnail" src="thumbnails/dark-color.png" alt="Dark Theme Colors">
     </a>
     <div class="info">
         <h3 class="title">
-            Dark Theme Color Converter
+            Dark Theme Colors
             
         </h3>
         <p class="desc">Concept Website</p>
@@ -373,11 +422,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-dark-color">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Dark Theme Colors</h3>
+        <p class="intro">A simple site that converts a color to its dark mode equivalent.</p>
+        <a class="more-button popup-close" id="close-dark-color">Great!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-amoris">
         <img class="thumbnail" src="thumbnails/amoris.png" alt="Amoris">
     </a>
     <div class="info">
@@ -411,11 +470,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-amoris">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Amoris</h3>
+        <p class="intro">A Valentine&#39;s themed parody of Tetris built in p5.js.</p>
+        <a class="more-button popup-close" id="close-amoris">Got it!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-population-growth">
         <img class="thumbnail" src="thumbnails/population-growth.png" alt="Population Growth">
     </a>
     <div class="info">
@@ -455,11 +524,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-population-growth">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Population Growth</h3>
+        <p class="intro">A interactive website that calculates and displays the logistic differential growth model.</p>
+        <a class="more-button popup-close" id="close-population-growth">Wow!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-atomic-scientists">
         <img class="thumbnail" src="thumbnails/atomic-scientists.png" alt="Atomic Scientists">
     </a>
     <div class="info">
@@ -497,11 +576,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-atomic-scientists">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Atomic Scientists</h3>
+        <p class="intro">A gacha game-inspired, interactive chemistry history infographic.</p>
+        <a class="more-button popup-close" id="close-atomic-scientists">Wow!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-metropolis-tv">
         <img class="thumbnail" src="thumbnails/metropolis-tv.png" alt="Metropolis TV">
     </a>
     <div class="info">
@@ -537,11 +626,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-metropolis-tv">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Metropolis TV</h3>
+        <p class="intro">A simple website that displays the time, announcements, weather, and schedule on the TV outside the office.</p>
+        <a class="more-button popup-close" id="close-metropolis-tv">Wow!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-cuilu">
         <img class="thumbnail" src="thumbnails/cuilu.png" alt="cuilu">
     </a>
     <div class="info">
@@ -579,11 +678,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-cuilu">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">cuilu</h3>
+        <p class="intro">A mockup of a possible highschool website design. Also a student council campaign site.</p>
+        <a class="more-button popup-close" id="close-cuilu">Awesome!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-malsuggest">
         <img class="thumbnail" src="thumbnails/malsuggest.png" alt="MALSuggest">
     </a>
     <div class="info">
@@ -615,11 +724,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-malsuggest">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">MALSuggest</h3>
+        <p class="intro">A script that suggests a new anime based on watch history.</p>
+        <a class="more-button popup-close" id="close-malsuggest">Great!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-sigma-nlp">
         <img class="thumbnail" src="thumbnails/sigma-nlp.png" alt="Sigma NLP">
     </a>
     <div class="info">
@@ -655,11 +774,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-sigma-nlp">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Sigma NLP</h3>
+        <p class="intro">A precise and streamlined neural network-based sentiment analyzer created for Ignition Hacks 2020. 3rd place winner overall.</p>
+        <a class="more-button popup-close" id="close-sigma-nlp">Got it!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-sorting-visualizer">
         <img class="thumbnail" src="thumbnails/sorting-visualizer.png" alt="Sorting Visualizer">
     </a>
     <div class="info">
@@ -691,11 +820,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-sorting-visualizer">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Sorting Visualizer</h3>
+        <p class="intro">A basic visualization of a variety of sorting algorithms, built in Java.</p>
+        <a class="more-button popup-close" id="close-sorting-visualizer">Wow!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-covid-cashier">
         <img class="thumbnail" src="thumbnails/covid-cashier.png" alt="Covid Cashier">
     </a>
     <div class="info">
@@ -727,11 +866,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-covid-cashier">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Covid Cashier</h3>
+        <p class="intro">A series of minigames based on COVID-19 safety procedures.</p>
+        <a class="more-button popup-close" id="close-covid-cashier">Got it!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-actuallyanagenda">
         <img class="thumbnail" src="thumbnails/actuallyanagenda.png" alt="ActuallyAnAgenda">
     </a>
     <div class="info">
@@ -773,11 +922,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-actuallyanagenda">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">ActuallyAnAgenda</h3>
+        <p class="intro">A personalized task organizer and scheduler created for TOHacks 2020.</p>
+        <a class="more-button popup-close" id="close-actuallyanagenda">Cool!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-sheet-music">
         <img class="thumbnail" src="thumbnails/sheet-music.png" alt="Sheet Music">
     </a>
     <div class="info">
@@ -805,11 +964,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-sheet-music">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Sheet Music</h3>
+        <p class="intro">Sheet music for popular songs that I transcribed.</p>
+        <a class="more-button popup-close" id="close-sheet-music">Okay!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-recursive-fractal-tree">
         <img class="thumbnail" src="thumbnails/recursive-fractal-tree.png" alt="Recursive Fractal Tree">
     </a>
     <div class="info">
@@ -837,11 +1006,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-recursive-fractal-tree">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Recursive Fractal Tree</h3>
+        <p class="intro">A simple visualization of recursion written in Processing.</p>
+        <a class="more-button popup-close" id="close-recursive-fractal-tree">Awesome!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-portfolio-website">
         <img class="thumbnail" src="thumbnails/portfolio-website.png" alt="Portfolio Website">
     </a>
     <div class="info">
@@ -879,11 +1058,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-portfolio-website">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Portfolio Website</h3>
+        <p class="intro">My old portfolio website created in 2020.</p>
+        <a class="more-button popup-close" id="close-portfolio-website">Awesome!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-jeopardy">
         <img class="thumbnail" src="thumbnails/jeopardy.png" alt="Jeopardy">
     </a>
     <div class="info">
@@ -917,11 +1106,21 @@
         
     </div>
 </div>
+            <div class="popup" id="popup-jeopardy">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">Jeopardy</h3>
+        <p class="intro">A game adaptation of the popular TV show, Jeopardy!, built in Java.</p>
+        <a class="more-button popup-close" id="close-jeopardy">Okay!</a>
+    </div>
+</div>
         </div>
         
         <div class="column">
             <div class="card">
-    <a href="">
+    <a class="project-img" id="project-abcwordsearch">
         <img class="thumbnail" src="thumbnails/abcwordsearch.png" alt="ABCWordsearch">
     </a>
     <div class="info">
@@ -951,6 +1150,16 @@
             
         </div>
         
+    </div>
+</div>
+            <div class="popup" id="popup-abcwordsearch">
+    <div class="overlay"></div>
+    <div class="popup-box">
+        
+        
+        <h3 class="title">ABCWordsearch</h3>
+        <p class="intro">A simple technology-themed wordsearch game built in Processing.</p>
+        <a class="more-button popup-close" id="close-abcwordsearch">Got it!</a>
     </div>
 </div>
         </div>
