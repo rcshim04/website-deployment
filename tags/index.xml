@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Eric Shim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2023 16:00:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 09:56:17 -0400</lastBuildDate><atom:link href="https://ericshim.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commission</title>
+      <link>https://ericshim.ca/tags/commission/</link>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/tags/commission/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Frontend</title>
       <link>https://ericshim.ca/tags/frontend/</link>
-      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
       
       <guid>https://ericshim.ca/tags/frontend/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>HTML5</title>
       <link>https://ericshim.ca/tags/html5/</link>
-      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
       
       <guid>https://ericshim.ca/tags/html5/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>Hugo</title>
       <link>https://ericshim.ca/tags/hugo/</link>
-      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
       
       <guid>https://ericshim.ca/tags/hugo/</guid>
       <description></description>
@@ -37,7 +46,7 @@
     <item>
       <title>JQuery</title>
       <link>https://ericshim.ca/tags/jquery/</link>
-      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
       
       <guid>https://ericshim.ca/tags/jquery/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>SCSS</title>
       <link>https://ericshim.ca/tags/scss/</link>
-      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
       
       <guid>https://ericshim.ca/tags/scss/</guid>
       <description></description>
