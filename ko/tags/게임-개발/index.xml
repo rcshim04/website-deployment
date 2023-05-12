@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>게임 개발 on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C/</link>
+    <description>Recent content in 게임 개발 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 05 Feb 2022 12:30:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>애트리스 (Amoris)</title>
+      <link>https://ericshim.ca/ko/projects/amoris/</link>
+      <pubDate>Sat, 05 Feb 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/amoris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>코로나 캐셔 (Covid Cashier)</title>
+      <link>https://ericshim.ca/ko/projects/covid-cashier/</link>
+      <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/covid-cashier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>제퍼디</title>
+      <link>https://ericshim.ca/ko/projects/jeopardy/</link>
+      <pubDate>Tue, 14 Jan 2020 15:05:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/jeopardy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC단어찿기 (ABCWordsearch)</title>
+      <link>https://ericshim.ca/ko/projects/abcwordsearch/</link>
+      <pubDate>Mon, 10 Jun 2019 13:59:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/abcwordsearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

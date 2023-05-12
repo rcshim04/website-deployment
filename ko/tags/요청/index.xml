@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>요청 on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/%EC%9A%94%EC%B2%AD/</link>
+    <description>Recent content in 요청 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 04 Jan 2021 17:00:00 -0500</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/%EC%9A%94%EC%B2%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>아니제안 (MALSuggest)</title>
+      <link>https://ericshim.ca/ko/projects/malsuggest/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/malsuggest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

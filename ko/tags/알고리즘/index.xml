@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>알고리즘 on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
+    <description>Recent content in 알고리즘 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Wed, 03 Jun 2020 15:00:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>정렬 시각화</title>
+      <link>https://ericshim.ca/ko/projects/sorting-visualizer/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/sorting-visualizer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

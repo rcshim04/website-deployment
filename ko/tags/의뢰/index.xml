@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>의뢰 on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/%EC%9D%98%EB%A2%B0/</link>
+    <description>Recent content in 의뢰 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 24 Feb 2023 09:56:17 -0400</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/%EC%9D%98%EB%A2%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yvespress</title>
+      <link>https://ericshim.ca/ko/projects/yvespress/</link>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/yvespress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

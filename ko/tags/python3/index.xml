@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python3 on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/python3/</link>
+    <description>Recent content in Python3 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 18 Sep 2022 09:00:00 -0400</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/python3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SiGnL</title>
+      <link>https://ericshim.ca/ko/projects/signl/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>아니제안 (MALSuggest)</title>
+      <link>https://ericshim.ca/ko/projects/malsuggest/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/malsuggest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigma NLP</title>
+      <link>https://ericshim.ca/ko/projects/sigma-nlp/</link>
+      <pubDate>Mon, 24 Aug 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/sigma-nlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

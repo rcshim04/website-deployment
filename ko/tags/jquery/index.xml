@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jQuery on 심정호</title>
+    <link>https://ericshim.ca/ko/tags/jquery/</link>
+    <description>Recent content in jQuery on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 24 Feb 2023 09:56:17 -0400</lastBuildDate><atom:link href="https://ericshim.ca/ko/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yvespress</title>
+      <link>https://ericshim.ca/ko/projects/yvespress/</link>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/yvespress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>개인 웹사이트</title>
+      <link>https://ericshim.ca/ko/projects/personal-website/</link>
+      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/personal-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>다크 모드 색상</title>
+      <link>https://ericshim.ca/ko/projects/dark-color/</link>
+      <pubDate>Fri, 01 Apr 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/dark-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>인구증가</title>
+      <link>https://ericshim.ca/ko/projects/population-growth/</link>
+      <pubDate>Mon, 24 Jan 2022 15:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/population-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>원자 과학자들</title>
+      <link>https://ericshim.ca/ko/projects/atomic-scientists/</link>
+      <pubDate>Sat, 18 Dec 2021 13:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/atomic-scientists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>대도시 TV</title>
+      <link>https://ericshim.ca/ko/projects/metropolis-tv/</link>
+      <pubDate>Wed, 24 Nov 2021 09:20:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/metropolis-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>프로젝트 대도시</title>
+      <link>https://ericshim.ca/ko/projects/project-metropolis/</link>
+      <pubDate>Mon, 23 Aug 2021 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/project-metropolis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

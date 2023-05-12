@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>프로젝트 on 심정호</title>
+    <link>https://ericshim.ca/ko/projects/</link>
+    <description>Recent content in 프로젝트 on 심정호</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 16 Feb 2023 13:38:55 -0500</lastBuildDate><atom:link href="https://ericshim.ca/ko/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yvespress</title>
+      <link>https://ericshim.ca/ko/projects/yvespress/</link>
+      <pubDate>Fri, 24 Feb 2023 09:56:17 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/yvespress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>개인 웹사이트</title>
+      <link>https://ericshim.ca/ko/projects/personal-website/</link>
+      <pubDate>Sat, 11 Feb 2023 16:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/personal-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>스털링 싱글</title>
+      <link>https://ericshim.ca/ko/projects/stirling-single/</link>
+      <pubDate>Mon, 21 Nov 2022 14:59:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/stirling-single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiGnL</title>
+      <link>https://ericshim.ca/ko/projects/signl/</link>
+      <pubDate>Sun, 18 Sep 2022 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/signl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>halune</title>
+      <link>https://ericshim.ca/ko/projects/halune/</link>
+      <pubDate>Sun, 26 Jun 2022 03:44:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/halune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>다크 모드 색상</title>
+      <link>https://ericshim.ca/ko/projects/dark-color/</link>
+      <pubDate>Fri, 01 Apr 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/dark-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>애트리스 (Amoris)</title>
+      <link>https://ericshim.ca/ko/projects/amoris/</link>
+      <pubDate>Sat, 05 Feb 2022 12:30:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/amoris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>인구증가</title>
+      <link>https://ericshim.ca/ko/projects/population-growth/</link>
+      <pubDate>Mon, 24 Jan 2022 15:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/population-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>원자 과학자들</title>
+      <link>https://ericshim.ca/ko/projects/atomic-scientists/</link>
+      <pubDate>Sat, 18 Dec 2021 13:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/atomic-scientists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>대도시 TV</title>
+      <link>https://ericshim.ca/ko/projects/metropolis-tv/</link>
+      <pubDate>Wed, 24 Nov 2021 09:20:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/metropolis-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>프로젝트 대도시</title>
+      <link>https://ericshim.ca/ko/projects/project-metropolis/</link>
+      <pubDate>Mon, 23 Aug 2021 18:20:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/project-metropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cuilu</title>
+      <link>https://ericshim.ca/ko/projects/cuilu/</link>
+      <pubDate>Sat, 22 May 2021 20:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/cuilu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>아니제안 (MALSuggest)</title>
+      <link>https://ericshim.ca/ko/projects/malsuggest/</link>
+      <pubDate>Mon, 04 Jan 2021 17:00:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/malsuggest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigma NLP</title>
+      <link>https://ericshim.ca/ko/projects/sigma-nlp/</link>
+      <pubDate>Mon, 24 Aug 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/sigma-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정렬 시각화</title>
+      <link>https://ericshim.ca/ko/projects/sorting-visualizer/</link>
+      <pubDate>Wed, 03 Jun 2020 15:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/sorting-visualizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>코로나 캐셔 (Covid Cashier)</title>
+      <link>https://ericshim.ca/ko/projects/covid-cashier/</link>
+      <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/covid-cashier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>진짜로의제라고 (ActuallyAnAgenda)</title>
+      <link>https://ericshim.ca/ko/projects/actuallyanagenda/</link>
+      <pubDate>Sun, 03 May 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/actuallyanagenda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>악보</title>
+      <link>https://ericshim.ca/ko/projects/sheet-music/</link>
+      <pubDate>Tue, 28 Apr 2020 11:30:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/sheet-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>재귀 프랙탈 트리</title>
+      <link>https://ericshim.ca/ko/projects/recursive-fractal-tree/</link>
+      <pubDate>Thu, 02 Apr 2020 13:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/recursive-fractal-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>포트폴리오 웹사이트 (구)</title>
+      <link>https://ericshim.ca/ko/projects/portfolio-website/</link>
+      <pubDate>Sun, 29 Mar 2020 16:00:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/portfolio-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>제퍼디</title>
+      <link>https://ericshim.ca/ko/projects/jeopardy/</link>
+      <pubDate>Tue, 14 Jan 2020 15:05:00 -0500</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/jeopardy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC단어찿기 (ABCWordsearch)</title>
+      <link>https://ericshim.ca/ko/projects/abcwordsearch/</link>
+      <pubDate>Mon, 10 Jun 2019 13:59:00 -0400</pubDate>
+      
+      <guid>https://ericshim.ca/ko/projects/abcwordsearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
