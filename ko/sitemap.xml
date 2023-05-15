@@ -63,11 +63,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://ericshim.ca/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ko"
                 href="https://ericshim.ca/ko/tags/"
                 />
@@ -91,11 +86,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ericshim.ca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ericshim.ca/ja/"
                 />
     <xhtml:link
                 rel="alternate"

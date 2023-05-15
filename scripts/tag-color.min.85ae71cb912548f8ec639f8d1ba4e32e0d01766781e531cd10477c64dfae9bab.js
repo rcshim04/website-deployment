@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".tag").each(function(){let e=$(this).text(),t=0;for(let n=0;n<e.length;n++)t+=e.codePointAt(n);$(this).css("background-color",`hsl(${t%360}deg 100% var(--tag-light))`)})})
